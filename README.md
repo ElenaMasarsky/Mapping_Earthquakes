@@ -6,3 +6,4 @@ On our map, the magnitude and location of each earthquake are shown in a popup m
 The diameter of the markers for each eathquake reflet the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear
 larger and darker in color with a legend providing the context for our map data.
 To illustrate the relationship between the location and frequeny of seismic activity and tectonic plates we added foult lines on the map. There are all the earthquakes with a magnitude greater than 4.5 represented on the map.
+![pic](https://github.com/ElenaMasarsky/Mapping_Earthquakes/blob/main/Earthquake_Challenge/major_earthquakes.png)
